@@ -1,7 +1,9 @@
 # Factory-Reallocation-Shipping-Optimization-System
 Machine Learning and Business Analytics project for optimizing factory allocation and shipping efficiency for Nassau Candy Distributor using Random Forest, Gradient Boosting, K-Means Clustering, and Streamlit.
 # Factory Reallocation & Shipping Optimization Recommendation System
+## 🚀 Live Demo
 
+[Open the Live Dashboard](https://factory-reallocation-shipping-optimization-system-ovuzxjjhwksk.streamlit.app)
 ## Project Overview
 
 This project develops a data-driven recommendation system for Nassau Candy Distributor to improve factory allocation decisions and shipping efficiency.
