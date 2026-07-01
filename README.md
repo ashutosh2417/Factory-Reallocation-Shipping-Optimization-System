@@ -117,6 +117,4 @@ MBA (Business Analytics)
 
 Amity University Online
 
-## Internship Project
-
 Factory Reallocation & Shipping Optimization Recommendation System for Nassau Candy Distributor
