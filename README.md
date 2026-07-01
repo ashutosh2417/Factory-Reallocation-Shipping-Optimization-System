@@ -10,6 +10,23 @@ This project develops a data-driven recommendation system for Nassau Candy Distr
 
 The system combines Business Analytics, Machine Learning, Clustering, and Dashboard Visualization to identify optimization opportunities and support decision-making.
 
+## 🎓 Internship Project
+
+**This project was successfully completed as part of my Business Analytics Internship at Unified Mentor.**
+
+During this internship, I designed and developed the **Nassau Candy Factory Optimization System**, an end-to-end Business Analytics and Machine Learning solution for optimizing factory allocation and shipping recommendations. The project involved data preprocessing, exploratory data analysis (EDA), customer and product analysis, machine learning model development, interactive dashboard creation, and cloud deployment using Streamlit.
+
+### **Skills Demonstrated**
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- Business Analytics & Data Visualization
+- Machine Learning Model Development
+- Recommendation System Development
+- Streamlit Dashboard Development
+- GitHub Version Control
+- Cloud Deployment using Streamlit
+
 ## Problem Statement
 
 Nassau Candy Distributor currently relies on static factory-product assignments that may result in:
